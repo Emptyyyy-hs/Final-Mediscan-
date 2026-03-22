@@ -1,0 +1,7 @@
+{
+  "name": "MediScan ",
+  "description": "An intelligent medical assistant that identifies medicines, analyzes symptoms, and provides a comprehensive guide to medicine forms and attributes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
