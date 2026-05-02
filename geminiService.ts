@@ -8,8 +8,8 @@ import { PRELOADED_DATA } from "./preloadedData";
 const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
 
 // --- GOOGLE CUSTOM SEARCH CONFIGURATION ---
-const CSE_ID = "40d57f7aa34534f73";  
-const CSE_API_KEY = "AIzaSyDYVCnWI4d-0BTRHc5ZXQajLtGNZatpYSQ";   
+const CSE_ID = "";  
+const CSE_API_KEY = "";   
 
 const SYSTEM_INSTRUCTION = `
 You are the backend of a project called MediScan. Your task is to provide accurate medicine information.
